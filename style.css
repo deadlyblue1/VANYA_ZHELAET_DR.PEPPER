@@ -1,0 +1,10 @@
+*{
+    cursor: url(dr.pepper-min.png), auto;
+    user-select: none;
+}
+
+.vanyaImg {
+    width: 150px;
+    height: 150px;
+    transition: 0.2s;
+}
